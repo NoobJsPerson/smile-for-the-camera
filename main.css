@@ -1,3 +1,6 @@
 #canvas {
 	display: none;
 }
+button {
+	float: right;
+}
